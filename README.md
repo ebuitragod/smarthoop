@@ -13,3 +13,13 @@ By playing with the rewards as in
 we may find this:
 
 <img width="300" alt="imagen" src="https://user-images.githubusercontent.com/29654051/125120222-77b52600-e0f2-11eb-98ba-90bc29cdd092.png">
+
+And play a little bit more we may find the following results with an exceptional rocket's behaviour.
+
+<img width="272" alt="imagen" src="https://user-images.githubusercontent.com/29654051/125161835-ddea8900-e184-11eb-9fbd-979c0f2edd24.png">
+
+<img width="276" alt="imagen" src="https://user-images.githubusercontent.com/29654051/125161841-e6db5a80-e184-11eb-8bc7-37ca8b36ac70.png">
+
+<img width="280" alt="imagen" src="https://user-images.githubusercontent.com/29654051/125161847-ee9aff00-e184-11eb-82a6-95d033711a4d.png">
+
+and so on. 
