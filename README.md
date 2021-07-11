@@ -23,3 +23,11 @@ And play a little bit more we may find the following results with an exceptional
 <img width="280" alt="imagen" src="https://user-images.githubusercontent.com/29654051/125161847-ee9aff00-e184-11eb-82a6-95d033711a4d.png">
 
 and so on. 
+
+
+
+## Bibliography
+https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa
+
+https://stable-baselines.readthedocs.io/en/master/modules/dqn.html
+
